@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="java version &quot;17.0.3+7&quot;" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Topics/Map/Creation of Map Entry" />
+            <option value="$PROJECT_DIR$/Topics/Map/FizzBuzz" />
+            <option value="$PROJECT_DIR$/Topics/Map/Is there a key" />
+            <option value="$PROJECT_DIR$/Topics/Map/Map creation" />
+            <option value="$PROJECT_DIR$/Topics/Map/Map has elements" />
+            <option value="$PROJECT_DIR$/Topics/Map/Map with buildMap" />
+            <option value="$PROJECT_DIR$/Topics/Map/Products in store" />
+            <option value="$PROJECT_DIR$/Topics/Map/Strings to Map" />
+            <option value="$PROJECT_DIR$/Topics/Map/Sum of values" />
+            <option value="$PROJECT_DIR$/Topics/Map/The truth is" />
+            <option value="$PROJECT_DIR$/Topics/Map/Theory" />
+            <option value="$PROJECT_DIR$/Version Control System/task" />
+            <option value="$PROJECT_DIR$/Version Control System/task/build/classes/kotlin" />
+            <option value="$PROJECT_DIR$/Version Control System/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Version Control System/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Version Control System/task/build/tmp" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
